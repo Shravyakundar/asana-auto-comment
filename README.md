@@ -21,5 +21,5 @@ The goal of this project is to automate the process of commenting Task IDs in an
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/auto-comment-taskid.git
+git clone https://github.com/Shravyakundar/asana-auto-comment.git
 cd auto-comment-taskid
